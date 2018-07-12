@@ -65,4 +65,4 @@ def number_ingredients(perfect_10_recipe)
   perfect_10_recipe.length
 end
 
-number_ingredients()
+number_ingredients(perfect_10_recipe)
